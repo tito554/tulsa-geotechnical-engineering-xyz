@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Tulsa
+
+> Geotechnical engineering services in Tulsa, United States.
+
+## Services
+- [Anchors](https://tulsa.geotechnical-engineering.xyz/anchors/)
+- [Atterberg Limits](https://tulsa.geotechnical-engineering.xyz/atterberg-limits/)
+- [Cbr Road](https://tulsa.geotechnical-engineering.xyz/cbr-road/)
+- [Cpt Test](https://tulsa.geotechnical-engineering.xyz/cpt-test/)
+- [Deep Excavations](https://tulsa.geotechnical-engineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://tulsa.geotechnical-engineering.xyz/excavation-monitoring/)
+- [Excavations](https://tulsa.geotechnical-engineering.xyz/excavations/)
+- [Flexible Pavement](https://tulsa.geotechnical-engineering.xyz/flexible-pavement/)
+- [Footings](https://tulsa.geotechnical-engineering.xyz/footings/)
+- [Foundations](https://tulsa.geotechnical-engineering.xyz/foundations/)
+- [Grain Size](https://tulsa.geotechnical-engineering.xyz/grain-size/)
+- [Ground Improvement](https://tulsa.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://tulsa.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://tulsa.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://tulsa.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://tulsa.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://tulsa.geotechnical-engineering.xyz/laboratory/)
+- [Liquefaction](https://tulsa.geotechnical-engineering.xyz/liquefaction/)
+- [Masw](https://tulsa.geotechnical-engineering.xyz/masw/)
+- [Mat Foundations](https://tulsa.geotechnical-engineering.xyz/mat-foundations/)
+- [Piles](https://tulsa.geotechnical-engineering.xyz/piles/)
+- [Proctor Tests](https://tulsa.geotechnical-engineering.xyz/proctor-tests/)
+- [Resistivity](https://tulsa.geotechnical-engineering.xyz/resistivity/)
+- [Retaining Walls](https://tulsa.geotechnical-engineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://tulsa.geotechnical-engineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://tulsa.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://tulsa.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://tulsa.geotechnical-engineering.xyz/seismic/)
+- [Seismic Isolation](https://tulsa.geotechnical-engineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://tulsa.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Seismic Refraction](https://tulsa.geotechnical-engineering.xyz/seismic-refraction/)
+- [Slope Stability](https://tulsa.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://tulsa.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://tulsa.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://tulsa.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://tulsa.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://tulsa.geotechnical-engineering.xyz/test-pits/)
+- [Triaxial](https://tulsa.geotechnical-engineering.xyz/triaxial/)
+- [Vibrocompaction](https://tulsa.geotechnical-engineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://tulsa.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Tulsa, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
